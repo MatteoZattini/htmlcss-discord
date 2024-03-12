@@ -4,16 +4,14 @@
     box-sizing: border-box;
 }
 
-body{
-
-}
-
 header{
-    background-color: cyan;
+    /* background-color: cyan; */
     height: auto;
     width: auto;
-    padding-bottom: 0.5rem;
     font-size: 20px;
+    background-image: url(./img/jumbo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box-container{
@@ -58,22 +56,32 @@ header{
     padding-right: 0.5rem;
 }
 
+button{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 25px;
+    border: none;
+}
+
 .container{
     width: auto;
     height: auto;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
 }
 
 .blue{
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .violet{
-    background-color: violet;
+    color: white;
     width: 50%;
     height: 20rem;
     margin: 4rem;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 5rem;
 }
 
 .white{
