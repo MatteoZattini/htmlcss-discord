@@ -126,11 +126,12 @@ p{
 
 .darkgray{
     background-color: #222;
+    padding: 1rem;
 }
 
 .darkpink{
     /* background-color: palevioletred; */
-    height: 40rem;
+    height: 30rem;
     width: 35%;
     text-align: center;
     padding: 1rem;
@@ -141,9 +142,9 @@ p{
     font-size: 1.2rem;
     color: white;
     /* background-color: cyan; */
-    height: 40rem;
+    height: 30rem;
     width: 20%;
-    border: 1px dashed white;
+    /* border: 1px dashed white; */
 }
 
 .footer-container{
@@ -182,3 +183,5 @@ h3{
 .headline{
     color: cyan;
 }
+
+.
