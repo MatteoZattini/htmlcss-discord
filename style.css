@@ -185,3 +185,14 @@ h3{
 .headline{
     color: cyan;
 }
+
+.wave{
+    background-image: url(./img/wave.svg);
+    width: auto;
+    min-height: 10rem;
+    opacity: 0.5;
+}
+
+.transform{
+    transform: scale(-1);
+}
